@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+body{
+   align-items: center;
+    background-color: goldenrod;
+    position: relative;
+    top: 199px;
+   
+}
+#country{
+    font-size: 30px;
+    border-radius: 20px ;
+}
+#Search{
+font-size: 25px;
+height: 26px;
+}
+button{
+    font-size: 1.5rem;
+    border-radius: 20px;
+    width: 100px;
+    background-color: blue;
+    color: white;
+}
+button:hover{
+    background-color: aliceblue;
+    color: black;
+}
+.main{
+    position: relative;
+    left: -30px;
+}
+#country-flag{
+    position: relative;
+    right: 20px;
+}
